@@ -25,3 +25,10 @@ for i in range(1, 11):
 for i in range(1, 51):
     if i%2 == 0:
         print(i)
+
+
+while i < 50:
+    if i%2 == 0:
+        print(i)
+    i = i + 1
+    
