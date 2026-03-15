@@ -1,0 +1,9 @@
+## WEEK 1 — Python Environment + Git Foundations
+
+### Concepts
+
+- Install Python
+- Virtual environments
+- Git basics
+- GitHub repo creation
+- First Python scripts
